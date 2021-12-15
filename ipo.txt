@@ -1,0 +1,895 @@
+
+Nov 4, 2021	LIBY	Liberty Resources Acquisition	$10.00	$10.09	0.90%
+Nov 4, 2021	SHCA	Spindletop Health Acquisition	$10.00	$10.06	0.60%
+Nov 4, 2021	CDRE	Cadre Holdings	$13.00	$15.29	17.62%
+Nov 4, 2021	ARHS	Arhaus	$13.00	$12.80	-1.54%
+Nov 4, 2021	LGST	Semper Paratus Acquisition	$10.00	$10.08	0.80%
+Nov 4, 2021	NRDS	NerdWallet	$18.00	$28.30	57.22%
+Nov 4, 2021	LION	Lionheart III	$10.00	$10.04	0.40%
+Nov 4, 2021	MDXH	MDxHealth	$13.46	$12.00	-10.85%
+Nov 4, 2021	DHAC	Digital Health Acquisition	$10.00	$10.18	1.80%
+Nov 4, 2021	MPRA	Mercato Partners Acquisition	$10.00	$10.04	0.35%
+Nov 4, 2021	FNVT	Finnovate Acquisition	$10.00	$10.09	0.85%
+Nov 4, 2021	EVO	Evotec	$26.16	$22.00	-15.90%
+Nov 3, 2021	ONYX	Onyx Acquisition I	$10.00	$10.09	0.90%
+Nov 3, 2021	TGVC	TG Venture Acquisition	$10.00	$10.12	1.20%
+Nov 3, 2021	MLAI	McLaren Technology Acquisition	$10.00	$10.08	0.80%
+Nov 3, 2021	TRAQ	Trine II Acquisition	$10.00	$10.06	0.60%
+Nov 3, 2021	INTE	Integral Acquisition 1	$10.00	$10.00	-0.05%
+Nov 3, 2021	FRLA	Fortune Rise Acquisition	$10.00	$10.04	0.40%
+Nov 3, 2021	BIRD	Allbirds	$15.00	$25.95	73.00%
+Nov 3, 2021	CMTG	Claros Mortgage Trust	$18.65	$17.00	-8.85%
+Nov 1, 2021	VSAC	Vision Sensing Acquisition	$10.00	$10.09	0.90%
+Nov 1, 2021	LIAN	LianBio	$16.00	$13.84	-13.50%
+Oct 29, 2021	BFRI	Biofrontera	$5.00	$3.56	-28.80%
+Oct 29, 2021	PEGR	Project Energy Reimagined Acquisition	$10.00	$9.94	-0.60%
+Oct 29, 2021	SEDA	SDCL EDGE Acquisition	$10.00	$9.95	-0.50%
+Oct 29, 2021	CCTS	Cactus Acquisition 1	$10.00	$10.08	0.80%
+Oct 29, 2021	ARCK	Arbor Rapha Capital Bioholdings I	$10.00	$10.14	1.40%
+Oct 29, 2021	AIRS	AirSculpt Technologies	$11.00	$14.33	30.27%
+Oct 29, 2021	UDMY	Udemy	$29.00	$27.38	-5.59%
+Oct 29, 2021	SONX	Sonendo	$12.00	$9.29	-22.58%
+Oct 29, 2021	AURA	Aura Biosciences	$14.00	$18.31	30.79%
+Oct 29, 2021	AEAE	AltEnergy Acquisition	$10.00	$10.08	0.80%
+Oct 29, 2021	TRDA	Entrada Therapeutics	$20.00	$24.88	24.40%
+Oct 29, 2021	HRT	HireRight Holdings	$19.00	$17.25	-9.21%
+Oct 28, 2021	FIAC	Focus Impact Acquisition	$10.00	$10.15	1.50%
+Oct 28, 2021	PCCT	Perception Capital II	$10.00	$10.09	0.90%
+Oct 28, 2021	DTC	Solo Brands	$17.00	$19.26	13.29%
+Oct 28, 2021	GFS	GlobalFoundries	$47.00	$62.68	33.36%
+Oct 28, 2021	FLNC	Fluence Energy	$28.00	$34.50	23.21%
+Oct 28, 2021	ADAL	Anthemis Digital Acquisitions I	$10.00	$10.08	0.80%
+Oct 28, 2021	SCMA	Seaport Calibre Materials Acquisition	$10.00	$10.02	0.20%
+Oct 27, 2021	OHAA	OPY Acquisition I	$10.00	$9.99	-0.10%
+Oct 27, 2021	USCT	TKB Critical Technologies 1	$10.00	$10.10	1.00%
+Oct 27, 2021	DMAQ	Deep Medicine Acquisition	$10.00	$10.04	0.40%
+Oct 27, 2021	LVAC	LAVA Medtech Acquisition	$10.00	$10.12	1.20%
+Oct 27, 2021	IOAC	Innovative International Acquisition	$10.00	$10.10	1.00%
+Oct 27, 2021	PHYT	Pyrophyte Acquisition	$10.00	$10.12	1.20%
+Oct 27, 2021	RENT	Rent The Runway	$21.00	$16.03	-23.67%
+Oct 27, 2021	MRAI	Marpai	$4.00	$5.42	35.50%
+Oct 27, 2021	INFA	Informatica	$29.00	$31.47	8.52%
+Oct 27, 2021	AIP	Arteris	$14.00	$22.40	60.00%
+Oct 22, 2021	MBSC	M3-Brigade Acquisition III	$10.00	$10.04	0.40%
+Oct 22, 2021	UTRS	Minerva Surgical	$12.00	$9.13	-23.92%
+Oct 22, 2021	ARIS	Aris Water Solutions	$13.00	$13.50	3.85%
+Oct 22, 2021	XLO	Xilio Therapeutics	$16.00	$23.23	45.19%
+Oct 22, 2021	PGSS	Pegasus Digital Mobility Acquisition	$10.00	$10.06	0.60%
+Oct 22, 2021	ICNC	Iconic Sports Acquisition	$10.00	$10.12	1.20%
+Oct 21, 2021	PTLO	Portillo's	$20.00	$51.39	156.95%
+Oct 21, 2021	THAC	Thrive Acquisition	$10.00	$10.10	1.00%
+Oct 21, 2021	VTYX	Ventyx Biosciences	$16.00	$20.42	27.63%
+Oct 21, 2021	NHIC	NewHold Investment II	$10.00	$9.98	-0.20%
+Oct 21, 2021	PX	P10	$12.00	$12.42	3.50%
+Oct 21, 2021	ENFN	Enfusion	$17.00	$21.43	26.06%
+Oct 21, 2021	XFIN	ExcelFin Acquisition	$10.00	$10.08	0.80%
+Oct 21, 2021	GOGN	GoGreen Investments	$10.00	$10.09	0.90%
+Oct 21, 2021	ENER	Accretion Acquisition	$10.00	$10.17	1.70%
+Oct 21, 2021	GTAC	Global Technology Acquisition I	$10.00	$10.10	1.00%
+Oct 21, 2021	RWAY	Runway Growth Finance	$14.60	$12.67	-13.22%
+Oct 21, 2021	COCO	The Vita Coco Company	$15.00	$13.87	-7.53%
+Oct 20, 2021	SDIG	Stronghold Digital Mining	$19.00	$27.00	42.11%
+Oct 20, 2021	AXH	Industrial Human Capital	$10.00	$10.16	1.60%
+Oct 20, 2021	CYN	Cyngn	$7.50	$7.40	-1.33%
+Oct 20, 2021	ESAC	ESGEN Acquisition	$10.00	$10.08	0.80%
+Oct 20, 2021	ACAQ	Athena Consumer Acquisition	$10.00	$10.20	2.00%
+Oct 20, 2021	NCAC	Newcourt Acquisition	$10.00	$10.10	1.00%
+Oct 20, 2021	WWAC	Worldwide Webb Acquisition	$10.00	$9.98	-0.20%
+Oct 20, 2021	CNTX	Context Therapeutics	$5.00	$5.46	9.20%
+Oct 19, 2021	BMAQ	Blockchain Moon Acquisition	$10.00	$10.36	3.60%
+Oct 19, 2021	SMAP	SportsMap Tech Acquisition	$10.00	$10.08	0.80%
+Oct 19, 2021	FEXD	Fintech Ecosystem Development	$10.00	$10.24	2.40%
+Oct 19, 2021	ENTF	Enterprise 4.0 Technology Acquisition	$10.00	$10.08	0.80%
+Oct 15, 2021	AVHI	Achari Ventures Holdings I	$10.00	$10.11	1.10%
+Oct 15, 2021	FOUN	Founder SPAC	$10.00	$10.05	0.50%
+Oct 15, 2021	INKT	MiNK Therapeutics	$12.00	$18.99	58.25%
+Oct 15, 2021	CDAQ	Compass Digital Acquisition	$10.00	$9.90	-1.00%
+Oct 15, 2021	SANB	Sanaby Health Acquisition I	$10.00	$10.10	1.00%
+Oct 15, 2021	PEPL	PepperLime Health Acquisition	$10.00	$9.97	-0.30%
+Oct 15, 2021	FNA	Paragon 28	$16.00	$23.22	45.13%
+Oct 14, 2021	LUCD	Lucid Diagnostics	$14.00	$9.99	-28.64%
+Oct 14, 2021	BMAC	Black Mountain Acquisition	$10.00	$10.09	0.90%
+Oct 14, 2021	ROSE	Rose Hill Acquisition	$10.00	$10.08	0.80%
+Oct 14, 2021	GTLB	GitLab	$77.00	$119.03	54.58%
+Oct 14, 2021	TRIS	Tristar Acquisition I	$10.00	$9.97	-0.30%
+Oct 14, 2021	IHS	IHS Holding	$21.00	$16.36	-22.10%
+Oct 13, 2021	AVDX	AvidXchange	$25.00	$24.93	-0.28%
+Oct 13, 2021	FATP	Fat Projects Acquisition	$10.00	$10.07	0.70%
+Oct 13, 2021	HCTI	Healthcare Triangle	$4.00	$3.42	-14.63%
+Oct 12, 2021	GIAC	Gesher I Acquisition	$10.00	$10.05	0.50%
+Oct 8, 2021	SAMA	Schultze Special Purpose Acquisition II	$10.00	$9.97	-0.30%
+Oct 8, 2021	HWKZ	Hawks Acquisition	$10.00	$9.95	-0.55%
+Oct 8, 2021	ISO	IsoPlexis	$15.00	$14.01	-6.60%
+Oct 8, 2021	CGTX	Cognition Therapeutics	$12.00	$12.41	3.42%
+Oct 8, 2021	JMAC	Jade Mountain Acquisition	$10.00	$10.19	1.85%
+Oct 8, 2021	LCW	Learn CW Investment	$10.00	$10.03	0.30%
+Oct 8, 2021	PYXS	Pyxis Oncology	$16.00	$13.64	-14.75%
+Oct 7, 2021	THRX	Theseus Pharmaceuticals	$16.00	$19.68	23.00%
+Oct 7, 2021	LTH	Life Time Group	$18.00	$18.24	1.33%
+Oct 7, 2021	TCN	Tricon Residential	$12.40	$14.43	16.37%
+Oct 7, 2021	IXAQ	IX Acquisition	$10.00	$9.92	-0.80%
+Oct 6, 2021	PBAX	Phoenix Biotech Acquisition	$10.00	$10.12	1.20%
+Oct 6, 2021	PCX	Parsec Capital Acquisitions	$10.00	$10.26	2.60%
+Oct 6, 2021	NFYS	Enphys Acquisition	$10.00	$9.84	-1.60%
+Oct 6, 2021	VLCN	Volcon	$5.50	$14.88	170.55%
+Oct 6, 2021	AVAC	Avalon Acquisition	$10.00	$10.07	0.70%
+Oct 6, 2021	NVEI	Nuvei	$123.14	$108.22	-12.12%
+Oct 5, 2021	RNER	Mount Rainier Acquisition	$10.00	$10.11	1.10%
+Oct 5, 2021	BHAC	Crixus BH3 Acquisition	$10.00	$9.95	-0.50%
+Oct 1, 2021	FWRG	First Watch Restaurant Group	$18.00	$20.37	13.17%
+Oct 1, 2021	TDCX	TDCX	$18.00	$26.25	45.83%
+Oct 1, 2021	EXAI	Exscientia	$22.00	$22.38	1.73%
+Oct 1, 2021	MTRY	Monterey Bio Acquisition	$10.00	$10.21	2.05%
+Oct 1, 2021	GATE	Marblegate Acquisition	$10.00	$9.99	-0.07%
+Oct 1, 2021	DMYS	dMY Technology Group VI	$10.00	$10.19	1.93%
+Sep 30, 2021	OLPX	Olaplex Holdings	$21.00	$28.90	37.62%
+Sep 30, 2021	HPLT	Home Plate Acquisition	$10.00	$9.90	-1.00%
+Sep 30, 2021	ARTE	Artemis Strategic Investment	$10.00	$10.07	0.70%
+Sep 29, 2021	MEKA	MELI Kaszek Pioneer	$10.00	$13.10	31.00%
+Sep 29, 2021	HCVI	Hennessy Capital Investment VI	$10.00	$10.00	0.00%
+Sep 29, 2021	WRBY	Warby Parker	$40.00	$55.15	37.88%
+Sep 28, 2021	BACA	Berenson Acquisition I	$10.00	$9.90	-1.00%
+Sep 28, 2021	AMPL	Amplitude	$35.00	$82.19	134.83%
+Sep 28, 2021	PRBM	Parabellum Acquisition	$10.00	$9.80	-2.00%
+Sep 24, 2021	CWAN	Clearwater Analytics	$18.00	$23.65	31.39%
+Sep 24, 2021	HLTH	Cue Health	$16.00	$9.85	-38.44%
+Sep 24, 2021	GIA	GigCapital5	$10.00	$10.42	4.20%
+Sep 24, 2021	DSAQ	Direct Selling Acquisition	$10.00	$10.12	1.16%
+Sep 23, 2021	ARBK	Argo Blockchain	$15.00	$17.31	15.40%
+Sep 23, 2021	THRN	Thorne HealthTech	$10.00	$9.54	-4.60%
+Sep 23, 2021	RELY	Remitly Global	$43.00	$33.97	-21.00%
+Sep 23, 2021	BRLT	Brilliant Earth Group	$12.00	$14.25	18.75%
+Sep 23, 2021	SOVO	Sovos Brands	$12.00	$14.90	24.17%
+Sep 23, 2021	LOCC	Live Oak Crestview Climate Acquisition	$10.00	$9.89	-1.10%
+Sep 23, 2021	STER	Sterling Check	$23.00	$23.74	3.22%
+Sep 23, 2021	ESMT	EngageSmart	$26.00	$32.08	23.38%
+Sep 22, 2021	VBNK	VersaBank	$10.00	$12.50	25.00%
+Sep 22, 2021	TOST	Toast	$40.00	$60.26	50.65%
+Sep 22, 2021	FRSH	Freshworks	$36.00	$39.59	9.97%
+Sep 22, 2021	ARGU	Argus Capital	$10.00	$10.11	1.10%
+Sep 22, 2021	IPAX	Inflection Point Acquisition	$10.00	$10.00	0.00%
+Sep 22, 2021	AKA	a.k.a. Brands	$11.00	$11.88	8.00%
+Sep 21, 2021	HHGC	HHG Capital	$10.00	$10.36	3.60%
+Sep 16, 2021	ACT	Enact Holdings	$19.00	$23.52	23.79%
+Sep 16, 2021	FORG	ForgeRock	$25.00	$30.66	22.64%
+Sep 16, 2021	FLYA	Soar Technology Acquisition	$10.00	$10.22	2.20%
+Sep 15, 2021	CIIG	CIIG Capital Partners II	$10.00	$10.12	1.20%
+Sep 15, 2021	SIER	Sierra Lake Acquisition	$10.00	$10.00	0.00%
+Sep 15, 2021	KTTA	Pasithea Therapeutics	$5.00	$2.63	-47.40%
+Sep 15, 2021	EZFL	EzFill Holdings	$4.00	$2.93	-26.75%
+Sep 15, 2021	BROS	Dutch Bros	$23.00	$69.71	203.09%
+Sep 15, 2021	TWKS	Thoughtworks Holding	$21.00	$30.53	45.38%
+Sep 15, 2021	AEHA	Aesther Healthcare Acquisition	$10.00	$10.07	0.70%
+Sep 15, 2021	EDNC	Endurance Acquisition	$10.00	$10.15	1.50%
+Sep 15, 2021	DICE	DICE Therapeutics	$17.00	$34.55	103.24%
+Sep 15, 2021	ONON	On Holding	$24.00	$37.63	56.79%
+Sep 15, 2021	PRCT	PROCEPT BioRobotics	$25.00	$43.97	75.88%
+Sep 15, 2021	TYRA	Tyra Biosciences	$16.00	$31.35	95.94%
+Sep 15, 2021	DH	Definitive Healthcare	$27.00	$40.43	49.74%
+Sep 15, 2021	WINV	WinVest Acquisition	$10.00	$10.30	3.00%
+Sep 14, 2021	SRAD	Sportradar	$27.00	$23.75	-12.04%
+Sep 14, 2021	PAFO	Pacifico Acquisition	$10.00	$9.90	-1.00%
+Sep 10, 2021	FHLT	Future Health ESG	$10.00	$9.98	-0.20%
+Sep 10, 2021	FLAG	First Light Acquisition Group	$10.00	$10.15	1.50%
+Sep 10, 2021	BNIX	Bannix Acquisition	$10.00	$9.82	-1.80%
+Sep 10, 2021	SLVR	SilverSPAC	$10.00	$9.91	-0.90%
+Sep 8, 2021	BNNR	Banner Acquisition	$10.00	$10.02	0.20%
+Sep 3, 2021	DWAC	Digital World Acquisition	$10.00	$58.84	488.40%
+Sep 3, 2021	OXUS	Oxus Acquisition	$10.00	$9.90	-1.00%
+Sep 2, 2021	GIPR	Generation Income Properties	$10.00	$6.99	-30.10%
+Sep 2, 2021	DTRT	DTRT Health Acquisition	$10.00	$9.95	-0.50%
+Sep 2, 2021	INAQ	Insight Acquisition	$10.00	$9.75	-2.50%
+Sep 1, 2021	CNDA	Concord Acquisition II	$10.00	$9.82	-1.80%
+Aug 31, 2021	DDI	DoubleDown Interactive	$18.00	$16.22	-9.89%
+Aug 31, 2021	CHWA	CHW Acquisition	$10.00	$9.77	-2.35%
+Aug 31, 2021	REVE	Alpine Acquisition	$10.00	$9.98	-0.20%
+Aug 27, 2021	SQL	SeqLL	$4.75	$3.70	-22.11%
+Aug 26, 2021	MEOA	Minority Equality Opportunities Acquisition	$10.00	$9.97	-0.30%
+Aug 26, 2021	SWSS	Springwater Special Situations	$10.00	$9.82	-1.80%
+Aug 26, 2021	CCAI	Cascadia Acquisition	$10.00	$9.74	-2.60%
+Aug 26, 2021	RNXT	RenovoRx	$9.00	$5.44	-39.56%
+Aug 20, 2021	WAVC	Waverley Capital Acquisition 1	$10.00	$9.67	-3.30%
+Aug 13, 2021	JAQC	Jupiter Acquisition	$10.00	$9.67	-3.30%
+Aug 13, 2021	KCGI	Kensington Capital Acquisition V	$10.00	$9.86	-1.40%
+Aug 13, 2021	AACI	Armada Acquisition I	$10.00	$9.90	-1.00%
+Aug 13, 2021	DATS	DatChat	$4.15	$7.61	83.37%
+Aug 13, 2021	DRMA	Dermata Therapeutics	$7.00	$6.24	-10.86%
+Aug 13, 2021	APMI	AxonPrime Infrastructure Acquisition	$10.00	$9.65	-3.50%
+Aug 13, 2021	CENQ	CENAQ Energy	$10.00	$9.90	-1.00%
+Aug 12, 2021	PPHP	PHP Ventures Acquisition	$10.00	$9.88	-1.25%
+Aug 12, 2021	AFTR	AfterNext HealthTech Acquisition	$10.00	$9.71	-2.90%
+Aug 12, 2021	SSBK	Southern States Bancshares	$19.00	$19.90	4.74%
+Aug 12, 2021	OXAC	Oxbridge Acquisition	$10.00	$9.91	-0.90%
+Aug 11, 2021	VCXA	10x Capital Venture Acquisition II	$10.00	$9.80	-2.00%
+Aug 11, 2021	TPBA	TPB Acquisition I	$10.00	$10.08	0.80%
+Aug 11, 2021	DCRD	Decarbonization Plus IV	$10.00	$9.99	-0.10%
+Aug 11, 2021	CNTQ	Chardan NexTech Acquisition 2	$10.00	$9.97	-0.30%
+Aug 11, 2021	WQGA	World Quantum Growth Acquisition	$10.00	$9.82	-1.80%
+Aug 11, 2021	PONO	Pono Capital	$10.00	$9.96	-0.40%
+Aug 10, 2021	AHPA	Avista Public Acquisition II	$10.00	$10.00	0.00%
+Aug 10, 2021	CPAA	Conyers Park III Acquisition	$10.00	$9.76	-2.40%
+Aug 10, 2021	ASPA	Abri SPAC I	$10.00	$9.87	-1.30%
+Aug 10, 2021	ELYM	Eliem Therapeutics	$12.50	$17.82	42.56%
+Aug 6, 2021	RVAC	Riverview Acquisition	$10.00	$9.74	-2.60%
+Aug 6, 2021	NOVV	Nova Vision Acquisition	$10.00	$9.94	-0.60%
+Aug 6, 2021	ROCG	Roth CH Acquisition IV	$10.00	$9.89	-1.15%
+Aug 6, 2021	ADGI	Adagio Therapeutics	$17.00	$30.30	78.24%
+Aug 5, 2021	WEBR	Weber	$14.00	$16.27	16.21%
+Aug 5, 2021	EWCZ	European Wax Center	$17.00	$30.19	77.59%
+Aug 5, 2021	GLEE	Gladstone Acquisition	$10.00	$10.00	0.00%
+Aug 4, 2021	AMCI	AMCI Acquisition II	$10.00	$9.68	-3.20%
+Aug 4, 2021	BWC	Blue Whale Acquisition I	$10.00	$9.76	-2.45%
+Aug 3, 2021	HWEL	Healthwell Acquisition I	$10.00	$9.70	-3.00%
+Jul 30, 2021	RANI	Rani Therapeutics	$11.00	$31.78	188.91%
+Jul 30, 2021	XPAX	XPAC Acquisition	$10.00	$9.66	-3.40%
+Jul 30, 2021	DOLE	Dole	$16.00	$13.72	-14.25%
+Jul 30, 2021	INAB	IN8bio	$10.00	$7.83	-21.70%
+Jul 30, 2021	OMGA	Omega Therapeutics	$17.00	$23.72	39.53%
+Jul 30, 2021	IMRX	Immuneering	$15.00	$30.28	101.87%
+Jul 30, 2021	RXST	RxSight	$16.00	$12.86	-19.63%
+Jul 30, 2021	TNYA	Tenaya Therapeutics	$15.00	$26.37	75.80%
+Jul 30, 2021	MXCT	MaxCyte	$13.00	$11.69	-10.08%
+Jul 29, 2021	ICVX	Icosavax	$15.00	$33.89	125.93%
+Jul 29, 2021	RSKD	Riskified	$21.00	$20.78	-1.05%
+Jul 29, 2021	COOK	Traeger	$18.00	$21.04	16.89%
+Jul 29, 2021	IMAQ	International Media Acquisition	$10.00	$9.85	-1.50%
+Jul 29, 2021	NUVL	Nuvalent	$17.00	$29.55	73.82%
+Jul 29, 2021	RLYB	Rallybio	$13.00	$19.00	46.15%
+Jul 29, 2021	MTAL	Metals Acquisition	$10.00	$9.73	-2.70%
+Jul 29, 2021	HOOD	Robinhood Markets	$38.00	$37.07	-2.45%
+Jul 29, 2021	SWAG	Software Acquisition Group III	$10.00	$9.90	-1.00%
+Jul 28, 2021	APTM	Alpha Partners Technology Merger	$10.00	$9.67	-3.30%
+Jul 28, 2021	DUOL	Duolingo	$102.00	$158.59	55.48%
+Jul 28, 2021	SNPO	Snap One Holdings	$18.00	$16.00	-11.11%
+Jul 28, 2021	MEAC	Mercury Ecommerce Acquisition	$10.00	$9.85	-1.50%
+Jul 28, 2021	DALS	DA32 Life Science Tech Acquisition	$10.00	$9.95	-0.50%
+Jul 28, 2021	PWSC	PowerSchool Holdings	$18.00	$24.53	36.28%
+Jul 28, 2021	MLNK	MeridianLink	$26.00	$25.65	-1.35%
+Jul 27, 2021	WRAC	Williams Rowland Acquisition	$10.00	$9.94	-0.60%
+Jul 27, 2021	CADL	Candel Therapeutics	$8.00	$11.55	44.38%
+Jul 27, 2021	ALPA	Alpha Healthcare Acquisition III	$10.00	$9.73	-2.70%
+Jul 23, 2021	XPOF	Xponential Fitness	$12.00	$17.20	43.33%
+Jul 23, 2021	OB	Outbrain	$20.00	$16.61	-16.95%
+Jul 23, 2021	BLNG	Belong Acquisition	$10.00	$9.77	-2.30%
+Jul 23, 2021	GAMB	Gambling.com Group	$8.00	$15.93	99.13%
+Jul 23, 2021	CNM	Core & Main	$20.00	$27.43	37.15%
+Jul 23, 2021	CTKB	Cytek Biosciences	$17.00	$24.28	42.82%
+Jul 23, 2021	CRBU	Caribou Biosciences	$16.00	$23.26	45.38%
+Jul 23, 2021	SOPH	SOPHiA GENETICS	$18.00	$15.74	-12.56%
+Jul 22, 2021	ZVIA	Zevia	$14.00	$11.54	-17.57%
+Jul 22, 2021	ZENV	Zenvia	$13.00	$10.66	-18.00%
+Jul 22, 2021	BASE	Couchbase	$24.00	$44.45	85.21%
+Jul 22, 2021	ABSI	Absci	$16.00	$17.02	6.38%
+Jul 22, 2021	INST	Instructure	$20.00	$26.08	30.40%
+Jul 22, 2021	RYAN	Ryan Specialty Group	$23.50	$37.00	57.45%
+Jul 21, 2021	PFTA	Portage Fintech Acquisition	$10.00	$9.72	-2.80%
+Jul 21, 2021	LAW	CS Disco	$32.00	$57.47	79.59%
+Jul 21, 2021	VEEE	Twin Vee PowerCats	$6.00	$3.62	-39.67%
+Jul 21, 2021	KLTR	Kaltura	$10.00	$6.49	-35.10%
+Jul 21, 2021	VTEX	VTEX	$19.00	$17.37	-8.58%
+Jul 21, 2021	PYCR	Paycor	$23.00	$34.63	50.57%
+Jul 20, 2021	CLAY	Chavant Capital Acquisition	$10.00	$9.84	-1.60%
+Jul 20, 2021	TRTL	TortoiseEcofin Acquisition III	$10.00	$9.72	-2.80%
+Jul 20, 2021	HCWB	HCW Biologics	$8.00	$3.40	-57.50%
+Jul 20, 2021	CLOE	Clover Leaf Capital	$10.00	$9.97	-0.30%
+Jul 16, 2021	TCRX	TScan Therapeutics	$15.00	$8.75	-41.67%
+Jul 16, 2021	BSAQ	Black Spade Acquisition	$10.00	$9.72	-2.80%
+Jul 16, 2021	RGC	Regencell Bioscience	$9.50	$20.94	120.42%
+Jul 16, 2021	IMGO	Imago BioSciences	$16.00	$24.61	53.81%
+Jul 16, 2021	ERAS	Erasca	$16.00	$20.29	26.81%
+Jul 16, 2021	TWCB	Bilander Acquisition	$10.00	$9.75	-2.50%
+Jul 16, 2021	APAC	Stonebridge Acquisition	$10.00	$9.98	-0.20%
+Jul 16, 2021	STVN	Stevanato Group	$21.00	$25.57	21.76%
+Jul 16, 2021	BLND	Blend Labs	$18.00	$15.50	-13.89%
+Jul 16, 2021	BRDG	Bridge Investment Group	$16.00	$18.64	16.50%
+Jul 15, 2021	SERA	Sera Prognostics	$16.00	$10.88	-32.00%
+Jul 15, 2021	MCG	Membership Collective Group	$14.00	$10.50	-25.00%
+Jul 15, 2021	CLAQ	CleanTech Acquisition	$10.00	$9.95	-0.50%
+Jul 15, 2021	UPTD	TradeUP Acquisition	$10.00	$9.92	-0.80%
+Jul 15, 2021	RPID	Rapid Micro Biosystems	$20.00	$22.13	10.65%
+Jul 15, 2021	PECO	Phillips Edison & Company	$28.00	$32.24	15.14%
+Jul 15, 2021	SGHT	Sight Sciences	$24.00	$25.00	4.17%
+Jul 15, 2021	FXLV	F45 Training	$16.00	$15.61	-2.44%
+Jul 14, 2021	JATT	JATT Acquisition	$10.00	$9.88	-1.20%
+Jul 14, 2021	IINN	Inspira Technologies Oxy	$5.51	$3.70	-32.85%
+Jul 13, 2021	UNCY	Unicycive Therapeutics	$0.00	$3.03	0.00%
+Jul 13, 2021	ARYE	Arya Sciences Acquisition V	$10.00	$10.01	0.10%
+Jul 12, 2021	GWII	Good Works II Acquisition	$10.00	$9.81	-1.90%
+Jul 9, 2021	RNAZ	TransCode Therapeutics	$4.00	$3.36	-16.00%
+Jul 9, 2021	GLTA	Galata Acquisition	$10.00	$9.94	-0.59%
+Jul 9, 2021	SNTG	Sentage Holdings	$5.00	$2.22	-55.60%
+Jul 9, 2021	ACRO	Acropolis Infrastructure Acquisition	$10.00	$9.70	-3.00%
+Jul 8, 2021	ALCC	AltC Acquisition	$10.00	$9.82	-1.80%
+Jul 8, 2021	MITQ	Moving iMage Technologies	$3.00	$2.77	-7.67%
+Jul 8, 2021	AGRI	AgriFORCE Growing Systems	$5.00	$2.30	-54.00%
+Jul 8, 2021	RICO	Agrico Acquisition	$10.00	$10.02	0.20%
+Jul 2, 2021	NYXH	Nyxoah	$30.00	$25.00	-16.67%
+Jul 1, 2021	VRAR	Glimpse Group	$0.00	$12.54	0.00%
+Jul 1, 2021	ABOS	Acumen Pharmaceuticals	$16.00	$14.73	-7.94%
+Jul 1, 2021	FICV	Frontier Investment	$10.00	$9.73	-2.70%
+Jul 1, 2021	CURV	Torrid Holdings	$21.00	$18.40	-12.38%
+Jul 1, 2021	GGGV	G3 VRM Acquisition	$10.00	$10.01	0.10%
+Jul 1, 2021	HEPS	D-MARKET Electronic Services & Trading	$0.00	$5.24	0.00%
+Jul 1, 2021	DRAY	Macondray Capital Acquisition I	$10.00	$9.80	-2.00%
+Jul 1, 2021	CORS	Corsair Partnering	$10.00	$9.69	-3.10%
+Jul 1, 2021	EVCM	EverCommerce	$17.00	$20.14	18.47%
+Jul 1, 2021	WAVE	Eco Wave Power Global	$8.00	$7.00	-12.50%
+Jul 1, 2021	DNUT	Krispy Kreme	$17.00	$13.86	-18.47%
+Jun 30, 2021	CPOP	Pop Culture Group	$6.00	$2.94	-51.00%
+Jun 30, 2021	MCAF	Mountain Crest Acquisition IV	$10.00	$9.90	-1.00%
+Jun 30, 2021	AVTE	Aerovate Therapeutics	$14.00	$16.95	21.07%
+Jun 30, 2021	SHQA	Shelter Acquisition I	$10.00	$9.76	-2.40%
+Jun 30, 2021	YOU	Clear Secure	$31.00	$45.71	47.45%
+Jun 30, 2021	XMTR	Xometry	$44.00	$47.12	7.09%
+Jun 30, 2021	IAS	Integral Ad Science Holding	$18.00	$24.50	36.11%
+Jun 30, 2021	DNAD	Social Capital Suvretta Holdings IV	$10.00	$9.98	-0.20%
+Jun 30, 2021	DIDI	DiDi Global	$14.00	$8.24	-41.14%
+Jun 30, 2021	CVRX	CVRx	$18.00	$16.97	-5.72%
+Jun 30, 2021	LZ	LegalZoom.com	$28.00	$26.63	-4.89%
+Jun 30, 2021	INTA	Intapp	$26.00	$29.80	14.62%
+Jun 30, 2021	DNAA	Social Capital Suvretta Holdings I	$10.00	$9.97	-0.30%
+Jun 30, 2021	S	SentinelOne	$35.00	$69.27	97.91%
+Jun 30, 2021	DNAB	Social Capital Suvretta Holdings II	$10.00	$9.95	-0.50%
+Jun 30, 2021	THCP	Thunder Bridge Capital Partners IV	$10.00	$9.72	-2.80%
+Jun 30, 2021	DNAC	Social Capital Suvretta Holdings III	$10.00	$9.97	-0.30%
+Jun 29, 2021	GOBI	Gobi Acquisition	$10.00	$9.68	-3.20%
+Jun 29, 2021	EOCW	Elliott Opportunity II	$10.00	$9.77	-2.30%
+Jun 29, 2021	DDL	Dingdong	$23.50	$30.21	28.55%
+Jun 25, 2021	ACXP	Acurx Pharmaceuticals	$6.00	$5.46	-9.00%
+Jun 25, 2021	GHRS	GH Research PLC	$16.00	$25.26	57.88%
+Jun 25, 2021	TKNO	Alpha Teknova	$16.00	$23.07	44.19%
+Jun 25, 2021	GMVD	G Medical Innovations	$5.00	$2.30	-54.00%
+Jun 25, 2021	ELEV	Elevation Oncology	$16.00	$8.62	-46.13%
+Jun 25, 2021	GRPH	Graphite Bio	$17.00	$12.72	-25.18%
+Jun 25, 2021	MCW	Mister Car Wash	$15.00	$19.08	27.20%
+Jun 25, 2021	MF	Missfresh	$13.00	$4.04	-68.92%
+Jun 24, 2021	FTVI	FinTech Acquisition VI	$10.00	$9.81	-1.90%
+Jun 24, 2021	MIRO	Miromatrix Medical	$9.00	$8.07	-10.33%
+Jun 24, 2021	GRVI	Grove	$0.00	$5.02	0.00%
+Jun 24, 2021	BON	Bon Natural Life	$5.00	$6.25	25.00%
+Jun 24, 2021	BHG	Bright Health Group	$18.00	$7.65	-57.50%
+Jun 24, 2021	DOCS	Doximity	$26.00	$72.67	179.50%
+Jun 24, 2021	CFLT	Confluent	$36.00	$73.60	104.44%
+Jun 24, 2021	GLUE	Monte Rosa Therapeutics	$19.00	$26.04	37.05%
+Jun 24, 2021	NLIT	Northern Lights Acquisition	$10.00	$10.01	0.10%
+Jun 23, 2021	CXM	Sprinklr	$16.00	$17.69	10.56%
+Jun 23, 2021	FA	First Advantage	$15.00	$20.42	36.13%
+Jun 23, 2021	MITA	Coliseum Acquisition	$10.00	$9.68	-3.20%
+Jun 22, 2021	GPCO	Golden Path Acquisition	$10.00	$10.00	0.00%
+Jun 22, 2021	YMM	Full Truck Alliance Co.	$19.00	$14.32	-24.63%
+Jun 18, 2021	FEMY	Femasys	$13.00	$6.99	-46.23%
+Jun 18, 2021	IPSC	Century Therapeutics	$20.00	$23.62	18.10%
+Jun 18, 2021	ATAI	ATAI Life Sciences	$15.00	$17.80	18.67%
+Jun 18, 2021	JUGG	JAWS Juggernaut Acquisition	$10.00	$9.85	-1.50%
+Jun 18, 2021	CYT	Cyteir Therapeutics	$18.00	$17.12	-4.89%
+Jun 18, 2021	AMAM	Ambrx Biopharma	$18.00	$13.04	-27.56%
+Jun 18, 2021	TRMR	Tremor International	$19.00	$18.40	-3.16%
+Jun 18, 2021	RERE	AiHuiShou International	$14.00	$8.94	-36.14%
+Jun 18, 2021	DNAY	Codex DNA	$16.00	$10.67	-33.31%
+Jun 17, 2021	ISPC	iSpecimen	$8.00	$6.32	-21.00%
+Jun 17, 2021	TRON	Corner Growth Acquisition 2	$10.00	$9.89	-1.10%
+Jun 17, 2021	LYEL	Lyell Immunopharma	$17.00	$14.93	-12.18%
+Jun 17, 2021	VERV	Verve Therapeutics	$19.00	$54.49	186.79%
+Jun 17, 2021	AOMR	Angel Oak Mortgage	$19.00	$18.11	-4.68%
+Jun 16, 2021	RONI	Rice Acquisition II	$10.00	$9.94	-0.60%
+Jun 16, 2021	WKME	WalkMe	$31.00	$24.61	-20.61%
+Jun 16, 2021	ZT	Zimmer Energy Transition Acquisition	$10.00	$9.77	-2.30%
+Jun 16, 2021	CNVY	Convey Holding Parent	$14.00	$7.50	-46.43%
+Jun 16, 2021	MOLN	Molecular Partners	$21.25	$19.69	-7.34%
+Jun 15, 2021	DILA	DILA Capital Acquisition	$10.00	$9.75	-2.50%
+Jun 15, 2021	ALZN	Alzamend Neuro	$5.00	$2.29	-54.20%
+Jun 15, 2021	GSQB	G Squared Ascend II	$10.00	$9.80	-2.00%
+Jun 11, 2021	JANX	Janux Therapeutics	$17.00	$26.70	57.06%
+Jun 11, 2021	TASK	TaskUs	$23.00	$59.06	156.78%
+Jun 11, 2021	HCNE	JAWS Hurricane Acquisition	$10.00	$9.82	-1.80%
+Jun 11, 2021	LITT	Logistics Innovation Technologies	$10.00	$9.73	-2.70%
+Jun 11, 2021	LAAA	Lakeshore Acquisition I	$10.00	$9.86	-1.40%
+Jun 11, 2021	BZ	Kanzhun	$19.00	$35.33	85.95%
+Jun 10, 2021	DIBS	1stdibs.com	$20.00	$16.69	-16.55%
+Jun 10, 2021	BSGA	Blue Safari Group Acquisition	$10.00	$9.99	-0.10%
+Jun 10, 2021	MNDY	monday.com	$155.00	$357.53	130.66%
+Jun 10, 2021	LFST	Lifestance Health Group	$18.00	$13.10	-27.22%
+Jun 10, 2021	ZETA	Zeta Global Holdings	$10.00	$8.96	-10.40%
+Jun 9, 2021	ISAA	Iron Spark I	$10.00	$10.07	0.70%
+Jun 9, 2021	GACQ	Global Consumer Acquisition	$10.00	$9.91	-0.90%
+Jun 9, 2021	MQ	Marqeta	$27.00	$28.23	4.56%
+Jun 9, 2021	CLBR	Colombier Acquisition	$10.00	$9.70	-3.00%
+Jun 9, 2021	SMIH	Summit Healthcare Acquisition	$10.00	$9.68	-3.20%
+Jun 8, 2021	SPK	SPK Acquisition	$10.00	$9.90	-1.00%
+Jun 8, 2021	ZME	Zhangmen Education	$11.50	$1.82	-84.17%
+Jun 3, 2021	DLO	DLocal	$21.00	$48.33	130.14%
+May 28, 2021	OTEC	OceanTech Acquisitions I	$10.00	$10.00	0.00%
+May 28, 2021	CNTA	Centessa Pharmaceuticals	$20.00	$13.12	-34.40%
+May 27, 2021	DAWN	Day One Biopharmaceuticals	$16.00	$25.96	62.25%
+May 27, 2021	OMIC	Singular Genomics Systems	$22.00	$15.85	-27.95%
+May 27, 2021	FIGS	FIGS	$22.00	$41.76	89.82%
+May 26, 2021	PSPC	Post Holdings Partnering	$10.00	$9.73	-2.70%
+May 26, 2021	FLYW	Flywire	$24.00	$43.01	79.21%
+May 26, 2021	EGGF	EG Acquisition	$10.00	$9.70	-3.00%
+May 26, 2021	ZIP	ZipRecruiter	$18.00	$28.83	60.17%
+May 26, 2021	PAY	Paymentus Holdings	$21.00	$26.20	24.76%
+May 26, 2021	DYNS	Dynamics Special Purpose	$10.00	$10.10	1.00%
+May 25, 2021	FWAC	Fifth Wall Acquisition III	$10.00	$9.94	-0.60%
+May 21, 2021	GFOR	Graf Acquisition IV	$10.00	$9.72	-2.80%
+May 20, 2021	PCOR	Procore Technologies	$67.00	$96.83	44.52%
+May 20, 2021	OTLY	Oatly Group	$17.00	$13.19	-22.41%
+May 19, 2021	RAM	Aries I Acquisition	$10.00	$9.95	-0.50%
+May 19, 2021	GIW	GigInternational1	$10.00	$9.94	-0.60%
+May 19, 2021	SQSP	Squarespace	$50.00	$42.25	-15.50%
+May 19, 2021	SKYA	Skydeck Acquisition	$10.00	$9.75	-2.50%
+May 18, 2021	MCAE	Mountain Crest Acquisition III	$10.00	$9.90	-1.00%
+May 18, 2021	POND	Angel Pond Holdings	$10.00	$9.70	-3.00%
+May 18, 2021	CPAR	Catalyst Partners Acquisition	$10.00	$9.79	-2.10%
+May 18, 2021	JZXN	Jiuzi Holdings	$5.00	$2.23	-55.40%
+May 14, 2021	OSI	Osiris Acquisition	$10.00	$9.76	-2.40%
+May 14, 2021	ARTA	Artisan Acquisition	$10.00	$9.89	-1.10%
+May 14, 2021	VERA	Vera Therapeutics	$11.00	$17.80	61.82%
+May 14, 2021	DBGI	Digital Brands Group	$4.15	$3.85	-7.23%
+May 13, 2021	ORIA	Orion Biotech Opportunities	$10.00	$9.95	-0.50%
+May 12, 2021	SMWB	Similarweb	$22.00	$19.63	-10.77%
+May 12, 2021	GLBE	Global-E Online	$25.00	$57.81	131.24%
+May 12, 2021	IPW	iPower	$5.00	$2.93	-41.40%
+May 11, 2021	FLGC	Flora Growth	$5.00	$4.76	-4.80%
+May 7, 2021	WDH	Waterdrop	$12.00	$2.12	-82.33%
+May 7, 2021	BRIV	B. Riley Principal 250 Merger	$10.00	$9.81	-1.90%
+May 7, 2021	TALS	Talaris Therapeutics	$17.00	$15.97	-6.06%
+May 7, 2021	ANEB	Anebulo Pharmaceuticals	$7.00	$6.85	-2.14%
+May 7, 2021	DKDCA	Data Knights Acquisition	$10.00	$10.08	0.80%
+May 7, 2021	OG	Onion Global	$7.25	$6.66	-8.14%
+May 7, 2021	BWMN	Bowman Consulting Group	$14.00	$16.90	20.71%
+May 6, 2021	VALN	Valneva	$26.41	$46.05	74.37%
+May 5, 2021	FSBC	Five Star Bancorp	$20.00	$27.69	38.45%
+May 5, 2021	HNST	The Honest Company	$16.00	$9.21	-42.44%
+May 5, 2021	MAQC	Maquia Capital Acquisition	$10.00	$10.04	0.40%
+May 4, 2021	ALF	ALFI	$4.15	$4.92	18.55%
+May 4, 2021	VLAT	Valor Latitude Acquisition	$10.00	$9.65	-3.50%
+Apr 30, 2021	IACC	ION Acquisition 3	$10.00	$9.76	-2.40%
+Apr 30, 2021	VACC	Vaccitech	$17.00	$14.00	-17.65%
+Apr 30, 2021	HOWL	Werewolf Therapeutics	$16.00	$15.99	-0.06%
+Apr 29, 2021	AVAH	Aveanna Healthcare Holdings	$12.00	$8.28	-31.00%
+Apr 29, 2021	BSKY	Big Sky Growth Partners	$10.00	$9.78	-2.20%
+Apr 29, 2021	EDR	Endeavor Group Holdings	$24.00	$25.34	5.58%
+Apr 29, 2021	TUGC	TradeUP Global	$10.00	$9.95	-0.50%
+Apr 29, 2021	PRVA	Privia Health Group	$23.00	$27.45	19.35%
+Apr 28, 2021	FTCI	FTC Solar	$13.00	$9.89	-23.92%
+Apr 23, 2021	AGTI	Agiliti	$14.00	$25.66	83.29%
+Apr 23, 2021	IMPL	Impel NeuroPharma	$15.00	$11.33	-24.47%
+Apr 23, 2021	RAIN	Rain Therapeutics	$17.00	$16.95	-0.29%
+Apr 23, 2021	TMCI	Treace Medical Concepts	$17.00	$24.23	42.53%
+Apr 23, 2021	SWIM	Latham Group	$19.00	$15.66	-17.58%
+Apr 22, 2021	NPCE	NeuroPace	$17.00	$15.75	-7.35%
+Apr 22, 2021	KNBE	KnowBe4	$16.00	$26.98	68.63%
+Apr 22, 2021	ZY	Zymergen	$31.00	$10.50	-66.13%
+Apr 21, 2021	PATH	UiPath	$56.00	$57.51	2.70%
+Apr 21, 2021	DV	DoubleVerify	$27.00	$36.08	33.63%
+Apr 21, 2021	SKYT	SkyWater Technology	$14.00	$22.26	59.00%
+Apr 20, 2021	IFBD	Infobird	$4.00	$2.45	-38.75%
+Apr 20, 2021	TRKA	Troika Media Group	$4.50	$1.84	-59.11%
+Apr 16, 2021	RXRX	Recursion Pharmaceuticals	$18.00	$19.52	8.44%
+Apr 16, 2021	AKYA	Akoya Biosciences	$20.00	$13.29	-33.55%
+Apr 16, 2021	BMEA	Biomea Fusion	$17.00	$11.45	-32.65%
+Apr 15, 2021	TSP	TuSimple Holdings	$40.00	$39.54	-1.15%
+Apr 15, 2021	AGL	Agilon Health	$23.00	$25.11	9.17%
+Apr 15, 2021	EBET	Esports Technologies	$6.00	$29.01	383.50%
+Apr 15, 2021	APP	Applovin	$80.00	$98.55	23.19%
+Apr 15, 2021	KRT	Karat Packaging	$16.00	$22.71	41.94%
+Apr 14, 2021	TCVA	TCV Acquisition	$10.00	$9.90	-1.00%
+Apr 14, 2021	ALKT	Alkami Technology	$30.00	$32.14	7.13%
+Apr 14, 2021	YTPG	TPG Pace Beneficial II	$10.00	$9.88	-1.20%
+Apr 14, 2021	COIN	Coinbase	$250.00	$344.45	37.78%
+Apr 9, 2021	VECT	VectivBio Holding	$17.00	$5.53	-67.47%
+Apr 9, 2021	ADF	Aldel Financial	$10.00	$10.24	2.40%
+Apr 9, 2021	GLSPT	Global SPAC Partners	$10.00	$10.00	-0.01%
+Apr 9, 2021	RPHM	Reneo Pharmaceuticals	$15.00	$7.58	-49.47%
+Apr 9, 2021	TPGS	TPG Pace Solutions	$10.00	$10.15	1.50%
+Apr 8, 2021	MPAC	Model Performance Acquisition	$10.00	$9.99	-0.10%
+Apr 8, 2021	TIOA	Tio Tech A	$10.00	$9.72	-2.80%
+Apr 7, 2021	PANA	Panacea Acquisition II	$10.00	$9.71	-2.90%
+Apr 7, 2021	CMLT	CM Life Sciences III	$10.00	$9.97	-0.30%
+Apr 6, 2021	ACBA	Ace Global Business Acquisition	$10.00	$10.08	0.80%
+Apr 6, 2021	UTME	UTime	$4.00	$5.03	25.75%
+Apr 1, 2021	KARO	Karooooo	$47.52	$34.78	-26.81%
+Apr 1, 2021	COMP	Compass	$18.00	$12.86	-28.56%
+Apr 1, 2021	EM	Smart Share Global	$8.50	$2.56	-69.88%
+Apr 1, 2021	ULCC	Frontier Group Holdings	$19.00	$16.09	-15.32%
+Mar 31, 2021	MBTC	Nocturne Acquisition	$10.00	$10.08	0.80%
+Mar 31, 2021	ACHL	Achilles Therapeutics	$18.00	$7.31	-59.39%
+Mar 31, 2021	COUR	Coursera	$33.00	$32.14	-2.61%
+Mar 30, 2021	TWOA	two	$10.00	$9.84	-1.60%
+Mar 26, 2021	HYW	Hywin Holdings	$10.00	$5.86	-41.40%
+Mar 26, 2021	DSGN	Design Therapeutics	$20.00	$17.75	-11.25%
+Mar 26, 2021	EWTX	Edgewise Therapeutics	$16.00	$19.58	22.38%
+Mar 26, 2021	ALHC	Alignment Healthcare	$18.00	$20.90	16.11%
+Mar 26, 2021	TDUP	ThredUp	$14.00	$19.99	42.79%
+Mar 26, 2021	IKNA	Ikena Oncology	$16.00	$13.00	-18.75%
+Mar 26, 2021	ZH	Zhihu	$9.50	$8.47	-10.84%
+Mar 25, 2021	OLK	Olink Holding	$20.00	$33.72	68.60%
+Mar 25, 2021	MSDA	MSD Acquisition	$10.00	$9.85	-1.50%
+Mar 25, 2021	CRCT	Cricut	$20.00	$29.46	47.30%
+Mar 25, 2021	LVTX	LAVA Therapeutics	$15.00	$7.54	-49.73%
+Mar 25, 2021	EEIQ	Elite Education Group	$8.00	$4.09	-48.88%
+Mar 25, 2021	LCA	Landcadia Holdings IV	$10.00	$9.80	-2.00%
+Mar 25, 2021	VZIO	VIZIO Holding	$21.00	$18.77	-10.62%
+Mar 25, 2021	DSEY	Diversey Holdings	$15.00	$17.68	17.87%
+Mar 25, 2021	SEMR	SEMrush Holdings	$14.00	$26.27	87.64%
+Mar 24, 2021	NGC	Northern Genesis Acquisition III	$10.00	$9.79	-2.10%
+Mar 24, 2021	DISA	Disruptive Acquisition I	$10.00	$9.77	-2.30%
+Mar 24, 2021	KVSB	Khosla Ventures Acquisition II	$10.00	$10.23	2.30%
+Mar 24, 2021	DOCN	DigitalOcean	$47.00	$105.32	124.09%
+Mar 24, 2021	KVSC	Khosla Ventures Acquisition III	$10.00	$9.88	-1.20%
+Mar 24, 2021	DCRC	Decarbonization Plus Acquisition III	$10.00	$12.31	23.10%
+Mar 24, 2021	CRZN	Corazon Capital V838 Monoceros	$10.00	$9.72	-2.80%
+Mar 24, 2021	ACVA	ACV Auctions	$25.00	$20.00	-20.00%
+Mar 23, 2021	NGCA	NextGen Acquisition II	$10.00	$10.00	0.00%
+Mar 23, 2021	ACTD	Arclight Clean Transition II	$10.00	$9.77	-2.30%
+Mar 23, 2021	OPA	Magnum Opus Acquisition	$10.00	$9.96	-0.40%
+Mar 23, 2021	GLHA	Glass Houses Acquisition	$10.00	$9.74	-2.60%
+Mar 23, 2021	UPC	Universe Pharmaceuticals	$5.00	$2.40	-52.00%
+Mar 23, 2021	TBSA	TB SA Acquisition	$10.00	$9.77	-2.30%
+Mar 23, 2021	LEGA	Lead Edge Growth Opportunities	$10.00	$9.78	-2.20%
+Mar 23, 2021	MOVE	Movano	$5.00	$3.54	-29.20%
+Mar 23, 2021	NBST	Newbury Street Acquisition	$10.00	$9.73	-2.70%
+Mar 23, 2021	DGNU	Dragoneer Growth Opportunities III	$10.00	$9.97	-0.30%
+Mar 23, 2021	VGII	Virgin Group Acquisition II	$10.00	$9.88	-1.20%
+Mar 23, 2021	STRE	Supernova Partners Acquisition III	$10.00	$9.83	-1.70%
+Mar 23, 2021	GGPI	Gores Guggenheim	$10.00	$10.54	5.40%
+Mar 23, 2021	RKTA	Rocket Internet Growth Opportunities	$10.00	$9.80	-2.00%
+Mar 19, 2021	LDHA	LDH Growth I	$10.00	$9.83	-1.70%
+Mar 19, 2021	LGV	Longview Acquisition II	$10.00	$9.94	-0.64%
+Mar 19, 2021	AFAQ	AF Acquisition	$10.00	$9.76	-2.40%
+Mar 19, 2021	LVRA	Levere Holdings	$10.00	$9.79	-2.10%
+Mar 19, 2021	AFCG	AFC Gamma	$19.00	$23.64	24.42%
+Mar 19, 2021	BYTS	BYTE Acquisition	$10.00	$9.75	-2.50%
+Mar 19, 2021	TIL	Instil Bio	$20.00	$21.59	7.95%
+Mar 19, 2021	FNCH	Finch Therapeutics Group	$17.00	$13.99	-17.71%
+Mar 19, 2021	CNTB	Connect Biopharma Holdings	$17.00	$16.00	-5.88%
+Mar 19, 2021	GGMC	Glenfarne Merger	$10.00	$9.75	-2.50%
+Mar 18, 2021	GXII	GX Acquisition II	$10.00	$9.72	-2.80%
+Mar 18, 2021	AAQC	Accelerate Acquisition	$10.00	$9.84	-1.60%
+Mar 18, 2021	GANX	Gain Therapeutics	$11.00	$7.64	-30.55%
+Mar 18, 2021	RACB	Research Alliance II	$10.00	$9.87	-1.30%
+Mar 18, 2021	TUYA	Tuya	$21.00	$6.12	-70.86%
+Mar 18, 2021	REVH	Revolution Healthcare Acquisition	$10.00	$9.74	-2.60%
+Mar 18, 2021	VEI	Vine Energy	$14.00	$17.58	25.57%
+Mar 18, 2021	FMIV	Forum Merger IV	$10.00	$9.75	-2.50%
+Mar 18, 2021	AMAO	American Acquisition Opportunity	$10.00	$10.00	-0.05%
+Mar 18, 2021	NAPA	Duckhorn	$15.00	$20.29	35.27%
+Mar 17, 2021	GAMC	Golden Arrow Merger	$10.00	$9.75	-2.50%
+Mar 17, 2021	JWEL	Jowell Global	$7.00	$5.95	-15.00%
+Mar 17, 2021	TETC	Tech & Energy Transition	$10.00	$9.70	-3.00%
+Mar 17, 2021	KSI	Kadem Sustainable Impact	$10.00	$9.74	-2.60%
+Mar 17, 2021	ATHN	Athena Technology Acquisition	$10.00	$10.00	0.00%
+Mar 17, 2021	OLO	Olo, Inc.	$25.00	$27.93	11.72%
+Mar 17, 2021	KAHC	KKR Acquisition Holdings I	$10.00	$9.80	-2.00%
+Mar 17, 2021	BGSX	Build Acquisition	$10.00	$9.71	-2.90%
+Mar 17, 2021	SNCY	Sun Country Airlines Holdings	$24.00	$30.74	28.08%
+Mar 16, 2021	RTPY	Reinvent Technology Partners Y	$10.00	$9.91	-0.90%
+Mar 16, 2021	PLMI	Plum Acquisition I	$10.00	$9.73	-2.70%
+Mar 16, 2021	EBAC	European Biotech Acquisition	$10.00	$9.75	-2.50%
+Mar 16, 2021	WALD	Waldencast Acquisition	$10.00	$9.74	-2.60%
+Mar 16, 2021	FZT	FAST Acquisition II	$10.00	$9.79	-2.10%
+Mar 16, 2021	FVIV	Fortress Value Acquisition IV	$10.00	$9.80	-2.00%
+Mar 12, 2021	ROSS	Ross Acquisition II	$10.00	$9.83	-1.75%
+Mar 12, 2021	FTPA	FTAC Parnassus Acquisition	$10.00	$9.74	-2.60%
+Mar 12, 2021	CFFE	CF Acquisition VIII	$10.00	$9.94	-0.60%
+Mar 12, 2021	GTPA	Gores Technology Partners	$10.00	$9.89	-1.10%
+Mar 12, 2021	GTPB	Gores Technology Partners II	$10.00	$9.85	-1.50%
+Mar 12, 2021	JOAN	JOANN	$12.00	$10.88	-9.33%
+Mar 12, 2021	RXDX	Prometheus Biosciences	$19.00	$35.46	86.63%
+Mar 12, 2021	LBPH	Longboard Pharmaceuticals	$16.00	$6.62	-58.63%
+Mar 12, 2021	MITC	Meat-Tech 3D	$10.30	$8.23	-20.10%
+Mar 12, 2021	HAYW	Hayward Holdings	$17.00	$24.33	43.12%
+Mar 12, 2021	SCAQ	Stratim Cloud Acquisition	$10.00	$9.82	-1.80%
+Mar 11, 2021	SPKB	Silver Spike Acquisition II	$10.00	$9.78	-2.20%
+Mar 11, 2021	CPNG	Coupang	$35.00	$30.45	-13.00%
+Mar 11, 2021	FHS	First High-School Education Group	$10.00	$2.76	-72.40%
+Mar 11, 2021	FRON	Frontier Acquisition	$10.00	$9.83	-1.70%
+Mar 11, 2021	LCAA	L Catterton Asia Acquisition	$10.00	$9.73	-2.70%
+Mar 11, 2021	PTOC	Pine Technology Acquisition	$10.00	$9.71	-2.90%
+Mar 11, 2021	ATSP	Archimedes Tech SPAC	$10.00	$9.97	-0.30%
+Mar 11, 2021	GAPA	G&P Acquisition	$10.00	$9.83	-1.70%
+Mar 10, 2021	RBLX	Roblox	$45.00	$82.53	83.40%
+Mar 10, 2021	CLAA	Colonnade Acquisition II	$10.00	$9.78	-2.20%
+Mar 10, 2021	FRXB	Forest Road Acquisition II	$10.00	$9.85	-1.50%
+Mar 10, 2021	VAQC	Vector Acquisition II	$10.00	$9.85	-1.50%
+Mar 10, 2021	FRW	PWP Forward Acquisition I	$10.00	$9.79	-2.10%
+Mar 10, 2021	SBII	Sandbridge X2	$10.00	$9.75	-2.50%
+Mar 10, 2021	ESM	ESM Acquisition	$10.00	$9.70	-3.00%
+Mar 10, 2021	AGGR	Agile Growth	$10.00	$9.75	-2.50%
+Mar 10, 2021	DTOC	Digital Transformation Opportunities	$10.00	$9.76	-2.43%
+Mar 9, 2021	PDOT	Peridot Acquisition II	$10.00	$9.78	-2.20%
+Mar 9, 2021	SVFB	SVF Investment 2	$10.00	$10.08	0.80%
+Mar 9, 2021	SVFC	SVF Investment 3	$10.00	$10.05	0.50%
+Mar 9, 2021	ACQR	Independence Holdings	$10.00	$9.77	-2.30%
+Mar 9, 2021	GROY	Gold Royalty	$5.00	$4.86	-2.80%
+Mar 5, 2021	LHAA	Lerer Hippeau Acquisition	$10.00	$9.85	-1.50%
+Mar 5, 2021	VPCB	VPC Impact Acquisition II	$10.00	$9.94	-0.60%
+Mar 5, 2021	VPCC	VPC Impact Acquisition III	$10.00	$9.95	-0.50%
+Mar 5, 2021	FRSG	First Reserve Sustainable Growth	$10.00	$9.93	-0.70%
+Mar 5, 2021	TWNT	Tailwind Two Acquisition	$10.00	$9.93	-0.70%
+Mar 5, 2021	ATVC	Tribe Capital Growth I	$10.00	$9.82	-1.80%
+Mar 5, 2021	IPVI	InterPrivate IV InfraTech Partners	$10.00	$9.80	-2.00%
+Mar 5, 2021	IPVF	InterPrivate III Financial Partners	$10.00	$9.93	-0.75%
+Mar 5, 2021	IPVA	InterPrivate II Acquisition	$10.00	$9.80	-2.00%
+Mar 5, 2021	DMYQ	dMY Technology Group IV	$10.00	$10.14	1.40%
+Mar 5, 2021	WPCA	Warburg Pincus Capital I-A	$10.00	$9.85	-1.50%
+Mar 5, 2021	WPCB	Warburg Pincus Capital I-B	$10.00	$9.78	-2.20%
+Mar 4, 2021	INNV	Innovage Holding	$21.00	$6.71	-68.05%
+Mar 4, 2021	HERA	FTAC Hera Acquisition	$10.00	$9.78	-2.20%
+Mar 4, 2021	PSAG	Property Solutions Acquisition II	$10.00	$9.72	-2.80%
+Mar 4, 2021	KVSA	Khosla Ventures Acquisition	$10.00	$9.98	-0.20%
+Mar 4, 2021	MBAC	M3-Brigade Acquisition II	$10.00	$9.94	-0.60%
+Mar 4, 2021	ATAQ	Altimar Acquisition III	$10.00	$9.76	-2.40%
+Mar 4, 2021	RXRA	RXR Acquisition	$10.00	$9.80	-2.00%
+Mar 4, 2021	ACAH	Atlantic Coastal Acquisition	$10.00	$9.72	-2.80%
+Mar 4, 2021	TRCA	Twin Ridge Capital Acquisition	$10.00	$9.75	-2.50%
+Mar 4, 2021	AURC	Aurora Acquisition	$10.00	$10.00	0.00%
+Mar 3, 2021	ISOS	Isos Acquisition	$10.00	$10.03	0.30%
+Mar 3, 2021	OSCR	Oscar Health	$39.00	$16.97	-56.49%
+Mar 3, 2021	MACC	Mission Advancement	$10.00	$9.75	-2.50%
+Mar 3, 2021	ROCR	Roth CH Acquisition III	$10.00	$9.96	-0.40%
+Mar 2, 2021	SNII	Supernova Partners Acquisition II	$10.00	$10.33	3.30%
+Mar 2, 2021	NSTC	Northern Star Investment III	$10.00	$9.79	-2.10%
+Mar 2, 2021	OHPA	Orion Acquisition	$10.00	$9.74	-2.60%
+Mar 2, 2021	NSTD	Northern Star Investment IV	$10.00	$9.79	-2.10%
+Mar 2, 2021	TSPQ	TCW Special Purpose Acquisition	$10.00	$9.75	-2.50%
+Mar 2, 2021	HYAC	Haymaker Acquisition III	$10.00	$9.73	-2.70%
+Mar 2, 2021	GBRG	Goldenbridge Acquisition	$10.00	$9.94	-0.60%
+Mar 2, 2021	LOKM	Live Oak Mobility Acquisition	$10.00	$9.81	-1.91%
+Mar 2, 2021	ANZU	Anzu Special Acquisition I	$10.00	$9.76	-2.40%
+Mar 2, 2021	DHBC	DHB Capital	$10.00	$9.78	-2.20%
+Mar 2, 2021	ARRW	Arrowroot Acquisition	$10.00	$9.73	-2.70%
+Mar 2, 2021	NDAC	Nightdragon Acquisition	$10.00	$9.77	-2.30%
+Mar 2, 2021	FTEV	FinTech Evolution Acquisition	$10.00	$9.72	-2.80%
+Mar 2, 2021	DHCA	DHC Acquisition	$10.00	$9.77	-2.30%
+Mar 2, 2021	AMPI	Advanced Merger Partners	$10.00	$9.71	-2.89%
+Feb 26, 2021	MACQ	MCAP Acquisition	$10.00	$9.93	-0.70%
+Feb 26, 2021	TWLV	Twelve Seas Investment II	$10.00	$9.71	-2.90%
+Feb 26, 2021	KCAC	Kensington Capital Acquisition II	$10.00	$8.07	-19.30%
+Feb 26, 2021	AGAC	African Gold Acquisition	$10.00	$9.76	-2.40%
+Feb 26, 2021	FSNB	Fusion Acquisition II	$10.00	$9.75	-2.55%
+Feb 26, 2021	IBER	Ibere Pharmaceuticals	$10.00	$9.73	-2.70%
+Feb 26, 2021	AUS	Austerlitz Acquisition I	$10.00	$10.01	0.10%
+Feb 26, 2021	LIII	Leo Holdings III	$10.00	$9.98	-0.20%
+Feb 26, 2021	ASZ	Austerlitz Acquisition II	$10.00	$9.79	-2.10%
+Feb 26, 2021	FACT	Freedom Acquisition I	$10.00	$9.74	-2.60%
+Feb 26, 2021	ARYD	ARYA Sciences Acquisition IV	$10.00	$9.99	-0.10%
+Feb 26, 2021	SBEA	SilverBox Engaged Merger I	$10.00	$10.42	4.20%
+Feb 26, 2021	WARR	Warrior Technologies Acquisition	$10.00	$9.82	-1.80%
+Feb 25, 2021	ISLE	Isleworth Healthcare Acquisition	$10.00	$9.81	-1.90%
+Feb 25, 2021	GIIX	Gores Holdings VIII	$10.00	$9.83	-1.70%
+Feb 25, 2021	HUGS	USHG Acquisition	$10.00	$9.83	-1.70%
+Feb 25, 2021	EJFA	EJF Acquisition	$10.00	$9.96	-0.40%
+Feb 25, 2021	SCR	Score Media & Gaming	$27.00	$35.58	31.78%
+Feb 25, 2021	FLME	Flame Acquisition	$10.00	$9.78	-2.20%
+Feb 24, 2021	COLI	Colicity	$10.00	$9.75	-2.50%
+Feb 24, 2021	HIII	Hudson Executive Investment III	$10.00	$9.74	-2.60%
+Feb 24, 2021	BOAS	BOA Acquisition	$10.00	$9.74	-2.60%
+Feb 24, 2021	GLBL	Cartesian Growth	$10.00	$9.90	-1.00%
+Feb 24, 2021	SRNG	Soaring Eagle Acquisition	$10.00	$12.18	21.80%
+Feb 23, 2021	SLAM	Slam Corp.	$10.00	$9.78	-2.20%
+Feb 23, 2021	VELO	Velocity Acquisition	$10.00	$9.92	-0.80%
+Feb 23, 2021	FTAA	FTAC Athena Acquisition	$10.00	$9.94	-0.60%
+Feb 23, 2021	CMII	CM Life Sciences II	$10.00	$10.63	6.30%
+Feb 23, 2021	ANAC	Arctos NorthStar Acquisition	$10.00	$9.75	-2.50%
+Feb 23, 2021	GSEV	Gores Holdings VII	$10.00	$9.89	-1.10%
+Feb 19, 2021	BRPM	B. Riley Principal 150 Merger	$10.00	$10.19	1.90%
+Feb 19, 2021	CFVI	CF Acquisition VI	$10.00	$9.75	-2.50%
+Feb 19, 2021	ASPC	Alpha Capital Acquisition	$10.00	$9.77	-2.30%
+Feb 19, 2021	SPGS	Simon Property Group Acquisition	$10.00	$9.78	-2.20%
+Feb 19, 2021	TWNI	Tailwind International Acquisition	$10.00	$9.74	-2.60%
+Feb 19, 2021	FACA	Figure Acquisition I	$10.00	$9.90	-1.05%
+Feb 18, 2021	FSRX	FinServ Acquisition II	$10.00	$9.72	-2.80%
+Feb 18, 2021	KAII	Kismet Acquisition Two	$10.00	$9.74	-2.60%
+Feb 18, 2021	KIII	Kismet Acquisition Three	$10.00	$9.73	-2.71%
+Feb 17, 2021	FSII	FS Development II	$10.00	$10.10	1.00%
+Feb 17, 2021	AUUD	Auddia	$4.13	$2.64	-36.00%
+Feb 17, 2021	NVSA	New Vista Acquisition	$10.00	$9.76	-2.45%
+Feb 17, 2021	ABGI	ABG Acquisition I	$10.00	$9.79	-2.10%
+Feb 17, 2021	MACA	Moringa Acquisition	$10.00	$9.74	-2.60%
+Feb 17, 2021	SPTK	SportsTek Acquisition	$10.00	$9.73	-2.70%
+Feb 17, 2021	PFDR	Pathfinder Acquisition	$10.00	$9.95	-0.50%
+Feb 17, 2021	VRPX	Virpax Pharmaceuticals	$10.00	$4.22	-57.80%
+Feb 16, 2021	MSAC	Medicus Sciences Acquisition	$10.00	$9.74	-2.60%
+Feb 12, 2021	TLIS	Talis Biomedical	$16.00	$5.49	-65.69%
+Feb 12, 2021	CVII	Churchill Capital VII	$10.00	$9.82	-1.80%
+Feb 12, 2021	SLAC	Social Leverage Acquisition I	$10.00	$9.75	-2.50%
+Feb 12, 2021	BITE	Bite Acquisition	$10.00	$9.76	-2.40%
+Feb 12, 2021	CHAA	Catcha Investment	$10.00	$9.75	-2.50%
+Feb 12, 2021	TCAC	Tuatara Capital Acquisition	$10.00	$9.77	-2.30%
+Feb 12, 2021	TSIB	Tishman Speyer Innovation II	$10.00	$9.81	-1.90%
+Feb 12, 2021	CCVI	Churchill Capital VI	$10.00	$9.93	-0.70%
+Feb 12, 2021	DBTX	Decibel Therapeutics	$18.00	$8.58	-52.33%
+Feb 12, 2021	RCLF	Rosecliff Acquisition I	$10.00	$9.74	-2.60%
+Feb 12, 2021	SCLE	Broadscale Acquisition	$10.00	$9.75	-2.50%
+Feb 12, 2021	LGVN	Longeveron	$10.00	$4.26	-57.40%
+Feb 12, 2021	NEXI	NexImmune	$17.00	$11.70	-31.18%
+Feb 11, 2021	LDI	loanDepot	$14.00	$6.43	-54.07%
+Feb 11, 2021	APR	Apria	$20.00	$36.61	83.05%
+Feb 11, 2021	BMBL	Bumble	$43.00	$51.70	20.23%
+Feb 11, 2021	BVS	Bioventus	$13.00	$16.69	28.38%
+Feb 11, 2021	SGFY	Signify Health	$24.00	$16.66	-30.58%
+Feb 11, 2021	PUCK	Goal Acquisitions	$10.00	$9.74	-2.60%
+Feb 11, 2021	IACB	ION Acquisition 2	$10.00	$9.95	-0.50%
+Feb 10, 2021	BPTS	Biophytis	$16.75	$6.03	-64.00%
+Feb 10, 2021	LGAC	Lazard Growth Acquisition I	$10.00	$9.75	-2.50%
+Feb 10, 2021	VLON	Vallon Pharmaceuticals	$8.00	$6.15	-23.13%
+Feb 10, 2021	DSP	Viant Technology	$25.00	$12.11	-51.56%
+Feb 10, 2021	SCOB	ScION Tech Growth II	$10.00	$9.77	-2.30%
+Feb 10, 2021	APGB	Apollo Strategic Growth Capital II	$10.00	$9.78	-2.20%
+Feb 10, 2021	XPDI	Power & Digital Infrastructure Acquisition	$10.00	$12.85	28.50%
+Feb 10, 2021	FORE	Foresight Acquisition	$10.00	$9.98	-0.20%
+Feb 9, 2021	RAAS	Cloopen Group Holding	$16.00	$3.89	-75.69%
+Feb 9, 2021	ADAG	Adagene	$19.00	$11.96	-37.05%
+Feb 9, 2021	PGRW	Progress Acquisition	$10.00	$9.82	-1.80%
+Feb 9, 2021	CPTK	Crown PropTech Acquisitions	$10.00	$9.81	-1.90%
+Feb 9, 2021	SPAQ	Spartan Acquisition III	$10.00	$9.96	-0.40%
+Feb 9, 2021	VENA	Venus Acquisition	$10.00	$10.06	0.60%
+Feb 9, 2021	EVOJ	Evo Acquisition	$10.00	$9.75	-2.50%
+Feb 9, 2021	ENNV	ECP Environmental Growth Opportunities	$10.00	$9.91	-0.90%
+Feb 9, 2021	GIG	GigCapital4	$10.00	$9.98	-0.20%
+Feb 9, 2021	PMGM	Priveterra Acquisition	$10.00	$9.77	-2.30%
+Feb 9, 2021	ADRA	Adara Acquisition	$10.00	$9.82	-1.80%
+Feb 9, 2021	PICC	Pivotal Investment III	$10.00	$9.79	-2.10%
+Feb 9, 2021	SDH	Global Internet of People	$4.00	$2.13	-46.75%
+Feb 8, 2021	BAOS	Baosheng Media Group	$5.00	$1.68	-66.40%
+Feb 5, 2021	BOLT	Bolt Biotherapeutics	$20.00	$12.62	-36.90%
+Feb 5, 2021	TERN	Terns Pharmaceuticals	$17.00	$9.98	-41.29%
+Feb 5, 2021	SDAC	Sustainable Development Acquisition I	$10.00	$9.70	-3.00%
+Feb 5, 2021	LHDX	Lucira Health	$17.00	$5.95	-65.00%
+Feb 5, 2021	VOR	Vor Biopharma	$18.00	$18.00	0.00%
+Feb 5, 2021	ANGN	Angion Biomedica	$16.00	$4.65	-70.94%
+Feb 5, 2021	TBCP	Thunder Bridge Capital Partners III	$10.00	$9.78	-2.20%
+Feb 5, 2021	JOFF	JOFF Fintech Acquisition	$10.00	$9.73	-2.70%
+Feb 5, 2021	KURI	Alkuri Global Acquisition	$10.00	$9.20	-8.00%
+Feb 5, 2021	RMGC	RMG Acquisition III	$10.00	$9.78	-2.20%
+Feb 5, 2021	PHVS	Pharvaris	$20.00	$15.70	-21.50%
+Feb 5, 2021	CNEY	CN Energy Group	$4.00	$12.75	218.75%
+Feb 5, 2021	QFTA	Quantum FinTech Acquisition	$10.00	$9.96	-0.40%
+Feb 5, 2021	EVAX	Evaxion Biotech	$10.00	$12.68	26.80%
+Feb 5, 2021	FWAA	Fifth Wall Acquisition I	$10.00	$12.10	21.00%
+Feb 5, 2021	CPUH	Compute Health Acquisition	$10.00	$9.79	-2.10%
+Feb 5, 2021	COVA	Crescent Cove Acquisition	$10.00	$9.76	-2.40%
+Feb 5, 2021	IMCR	Immunocore	$26.00	$38.71	48.88%
+Feb 5, 2021	HHLA	HH&L Acquisition	$10.00	$9.73	-2.70%
+Feb 5, 2021	GSQD	G Squared Ascend I	$10.00	$9.90	-1.00%
+Feb 5, 2021	ATMR	Altimar Acquisition II	$10.00	$9.92	-0.80%
+Feb 4, 2021	CENH	Centricus Acquisition	$10.00	$8.35	-16.50%
+Feb 4, 2021	SANA	Sana Biotechnology	$25.00	$23.00	-8.00%
+Feb 4, 2021	NXU	Novus Capital II	$10.00	$9.98	-0.20%
+Feb 4, 2021	LABP	Landos Biopharma	$16.00	$14.03	-12.31%
+Feb 4, 2021	ASAX	Astrea Acquisition	$10.00	$9.92	-0.80%
+Feb 4, 2021	ACII	Atlas Crest Investment II	$10.00	$9.78	-2.20%
+Feb 4, 2021	DCRN	Decarbonization Plus Acquisition II	$10.00	$9.99	-0.10%
+Feb 4, 2021	ATC	Atotech	$17.00	$24.57	44.53%
+Feb 4, 2021	ITQ	Itiquira Acquisition	$10.00	$9.75	-2.50%
+Feb 4, 2021	SNSE	Sensei Biotherapeutics	$19.00	$8.56	-54.95%
+Feb 3, 2021	GHAC	Gaming & Hospitality Acquisition	$10.00	$9.77	-2.30%
+Feb 3, 2021	TMAC	Music Acquisition	$10.00	$9.75	-2.50%
+Feb 3, 2021	ONTF	ON24	$50.00	$18.49	-63.02%
+Feb 3, 2021	TIXT	TELUS International	$25.00	$38.10	52.40%
+Feb 3, 2021	PRPC	CC Neuberger Principal Holdings III	$10.00	$9.82	-1.80%
+Feb 3, 2021	KRNL	Kernel Group Holdings	$10.00	$9.74	-2.60%
+Feb 2, 2021	JWSM	Jaws Mustang Acquisition	$10.00	$9.82	-1.80%
+Feb 2, 2021	THMA	Thimble Point Acquisition	$10.00	$9.98	-0.20%
+Feb 2, 2021	MDH	MDH Acquisition	$10.00	$9.88	-1.20%
+Feb 2, 2021	AAC	Ares Acquisition	$10.00	$9.81	-1.90%
+Feb 2, 2021	NRAC	Noble Rock Acquisition	$10.00	$9.74	-2.60%
+Jan 29, 2021	NLSP	NLS Pharmaceutics	$4.15	$2.24	-46.02%
+Jan 29, 2021	CFV	CF Acquisition V	$10.00	$9.93	-0.70%
+Jan 29, 2021	BCAC	Brookline Capital Acquisition	$10.00	$9.95	-0.50%
+Jan 29, 2021	TRIN	Trinity Capital	$14.00	$16.45	17.50%
+Jan 29, 2021	EQHA	EQ Health Acquisition	$10.00	$9.75	-2.50%
+Jan 29, 2021	HMPT	Home Point Capital	$13.00	$5.01	-61.46%
+Jan 29, 2021	ZWRK	Z-Work Acquisition	$10.00	$9.76	-2.40%
+Jan 29, 2021	MIT	Mason Industrial Technology	$10.00	$9.75	-2.50%
+Jan 29, 2021	CLRM	Clarim Acquisition	$10.00	$9.77	-2.30%
+Jan 29, 2021	GCAC	Growth Capital Acquisition	$10.00	$9.95	-0.50%
+Jan 29, 2021	BLUA	BlueRiver Acquisition	$10.00	$9.77	-2.30%
+Jan 28, 2021	ZIM	ZIM Integrated Shipping Services	$15.00	$53.17	254.47%
+Jan 28, 2021	OCDX	Ortho Clinical Diagnostics	$17.00	$19.49	14.65%
+Jan 28, 2021	VINP	Vinci Partners Investments	$18.00	$12.34	-31.44%
+Jan 28, 2021	AGFY	Agrify	$10.00	$19.12	91.20%
+Jan 28, 2021	XM	Qualtrics International	$30.00	$43.20	44.00%
+Jan 28, 2021	TLGA	TLG Acquisition One	$10.00	$9.76	-2.45%
+Jan 28, 2021	ITHX	ITHAX Acquisition	$10.00	$9.76	-2.40%
+Jan 28, 2021	IGNY	Ignyte Acquisition	$10.00	$9.77	-2.30%
+Jan 27, 2021	FSSI	Fortistar Sustainable Solutions	$10.00	$9.75	-2.50%
+Jan 27, 2021	CSTA	Constellation Acquisition I	$10.00	$9.76	-2.40%
+Jan 27, 2021	CAHC	CA Healthcare Acquisition	$10.00	$9.94	-0.60%
+Jan 27, 2021	CLIM	Climate Real Impact Solutions II	$10.00	$9.89	-1.10%
+Jan 27, 2021	SHLS	Shoals Technologies Group	$25.00	$32.75	31.00%
+Jan 27, 2021	HCAQ	HealthCor Catalio Acquisition	$10.00	$9.96	-0.40%
+Jan 27, 2021	TIRX	Tian Ruixiang Holdings	$4.00	$3.08	-23.00%
+Jan 26, 2021	LMAO	LMF Acquisition Opportunities	$10.00	$9.99	-0.10%
+Jan 26, 2021	BIOT	Biotech Acquisition	$10.00	$9.80	-2.00%
+Jan 26, 2021	HCII	Hudson Executive Investment II	$10.00	$9.75	-2.50%
+Jan 26, 2021	EZGO	EZGO Technologies	$4.00	$2.90	-27.50%
+Jan 26, 2021	DHHC	DiamondHead Holdings	$10.00	$9.78	-2.20%
+Jan 26, 2021	NSTB	Northern Star Investment II	$10.00	$9.91	-0.90%
+Jan 26, 2021	LMDX	LumiraDx	$0.00	$8.98	0.00%
+Jan 26, 2021	DNZ	D & Z Media Acquisition	$10.00	$9.75	-2.50%
+Jan 26, 2021	SSAA	Science Strategic Acquisition Alpha	$10.00	$9.77	-2.30%
+Jan 26, 2021	BTNB	Bridgetown 2 Holdings	$10.00	$10.02	0.20%
+Jan 22, 2021	LMACA	Liberty Media Acquisition	$10.00	$10.41	4.10%
+Jan 22, 2021	PAX	Patria Investments	$17.00	$18.40	8.24%
+Jan 22, 2021	SHAC	SCP & CO Healthcare Acquisition	$10.00	$9.75	-2.50%
+Jan 22, 2021	JCIC	Jack Creek Investment	$10.00	$9.75	-2.50%
+Jan 22, 2021	PV	Primavera Capital Acquisition	$10.00	$9.77	-2.35%
+Jan 22, 2021	VOSO	Virtuoso Acquisition	$10.00	$10.00	0.00%
+Jan 22, 2021	MNTK	Montauk Renewables	$8.50	$10.60	24.71%
+Jan 22, 2021	NAAC	North Atlantic Acquisition	$10.00	$9.77	-2.30%
+Jan 22, 2021	EUSG	European Sustainable Growth Acquisition	$10.00	$9.95	-0.50%
+Jan 22, 2021	RLX	RLX Technology	$12.00	$4.75	-60.42%
+Jan 22, 2021	HUDI	Huadi International Group	$8.00	$24.42	205.25%
+Jan 22, 2021	OEPW	One Equity Partners Open Water I	$10.00	$9.77	-2.30%
+Jan 21, 2021	MYTE	MYT Netherlands	$26.00	$26.78	3.00%
+Jan 21, 2021	DFH	Dream Finders Homes	$13.00	$15.78	21.38%
+Jan 20, 2021	GMBT	Queen's Gambit Growth Capital	$10.00	$9.93	-0.70%
+Jan 20, 2021	GMII	Gores Metropoulos II	$10.00	$9.99	-0.10%
+Jan 20, 2021	LEGO	Legato Merger Corp	$10.00	$11.25	12.50%
+Jan 20, 2021	OSTR	Oyster Enterprises Acquisition	$10.00	$9.77	-2.30%
+Jan 20, 2021	FOXW	FoxWayne Enterprises Acquisition	$10.00	$9.95	-0.50%
+Jan 20, 2021	TZPS	TZP Strategies Acquisition	$10.00	$9.72	-2.80%
+Jan 15, 2021	EAC	Edify Acquisition	$10.00	$9.75	-2.50%
+Jan 15, 2021	CLAS	Class Acceleration	$10.00	$9.76	-2.40%
+Jan 15, 2021	DRVN	Driven Brands	$22.00	$31.01	40.95%
+Jan 15, 2021	HCIC	Hennessy Capital Investment V	$10.00	$10.01	0.10%
+Jan 15, 2021	AEAC	Authentic Equity Acquisition	$10.00	$9.72	-2.80%
+Jan 15, 2021	PLTK	Playtika	$27.00	$22.58	-16.37%
+Jan 15, 2021	OCAX	OCA Acquisition	$10.00	$9.96	-0.40%
+Jan 15, 2021	ADER	26 Capital Acquisition	$10.00	$9.90	-1.00%
+Jan 15, 2021	HCCC	Healthcare Capital	$10.00	$9.94	-0.60%
+Jan 15, 2021	GNAC	Group Nine Acquisition	$10.00	$9.77	-2.30%
+Jan 15, 2021	ROT	Rotor Acquisition	$10.00	$10.05	0.50%
+Jan 14, 2021	WOOF	Petco	$18.00	$25.64	42.44%
+Jan 14, 2021	ENVI	Environmental Impact Acquisition	$10.00	$9.96	-0.40%
+Jan 14, 2021	POSH	Poshmark	$42.00	$23.33	-44.45%
+Jan 14, 2021	SLCR	Silver Crest Acquisition	$10.00	$9.92	-0.80%
+Jan 14, 2021	MON	Monument Circle Acquisition	$10.00	$9.78	-2.20%
+Jan 13, 2021	AFRM	Affirm Holdings	$49.00	$168.52	243.92%
+Jan 13, 2021	MSGM	Motorsport Games	$20.00	$10.65	-46.75%
+Jan 13, 2021	DLCA	Deep Lake Capital Acquisition	$10.00	$9.75	-2.50%
+Jan 13, 2021	HLAH	Hamilton Lane Alliance Holdings I	$10.00	$9.77	-2.30%
+Jan 13, 2021	NGAB	Northern Genesis Acquisition II	$10.00	$9.84	-1.60%
+Jan 13, 2021	FCAX	Fortress Capital Acquisition	$10.00	$9.88	-1.20%
+Jan 13, 2021	PNTM	Pontem	$10.00	$9.77	-2.30%
+Jan 13, 2021	FINM	Marlin Technology	$10.00	$9.77	-2.30%
+Jan 12, 2021	BCYP	Big Cypress Acquisition	$10.00	$8.44	-15.60%
+Jan 12, 2021	KUKE	Kuke Music	$10.00	$4.85	-51.50%
+Jan 12, 2021	ENFA	890 5th Avenue Partners	$10.00	$9.95	-0.50%
+Jan 12, 2021	GPAC	Global Partner Acquisition II	$10.00	$9.78	-2.20%
+Jan 12, 2021	ADEX	Adit EdTech Acquisition	$10.00	$9.71	-2.90%
+Jan 12, 2021	QLI	Qilian International	$5.00	$3.78	-24.40%
+Jan 12, 2021	SWET	Athlon Acquisition	$10.00	$9.78	-2.20%
+Jan 11, 2021	LJAQ	LightJump Acquisition	$10.00	$9.84	-1.60%
+Jan 8, 2021	MCAD	Mountain Crest Acquisition II	$10.00	$10.43	4.30%
+Jan 8, 2021	LHC	Leo Holdings II	$10.00	$9.76	-2.40%
+Jan 8, 2021	TMKR	Tastemaker Acquisition	$10.00	$9.82	-1.80%
+Jan 8, 2021	PAQC	Provident Acquisition	$10.00	$9.78	-2.20%
+Jan 8, 2021	EPHY	Epiphany Technology Acquisition	$10.00	$9.78	-2.20%
+Jan 8, 2021	POW	Powered Brands	$10.00	$9.77	-2.30%
+Jan 8, 2021	KLAQ	KL Acquisition	$10.00	$9.78	-2.20%
+Jan 8, 2021	GSAQ	Global Synergy Acquisition	$10.00	$9.85	-1.50%
+Jan 8, 2021	PRSR	Prospector Capital	$10.00	$9.77	-2.30%
+Jan 8, 2021	EPWR	Empowerment & Inclusion Capital I	$10.00	$9.75	-2.50%
+Jan 8, 2021	CGEM	Cullinan Management	$21.00	$22.72	8.19%
+Jan 8, 2021	PACX	Pioneer Merger	$10.00	$9.97	-0.30%
+Jan 8, 2021	SVFA	SVF Investment	$10.00	$10.10	1.00%
+Jan 8, 2021	LWAC	Locust Walk Acquisition	$10.00	$16.98	69.80%
+Jan 8, 2021	GRCL	Gracell Biotechnologies	$19.00	$11.25	-40.79%
+Jan 8, 2021	SWBK	Switchback II	$10.00	$9.35	-6.50%
+Jan 7, 2021	BLTS	Bright Lights Acquisition	$10.00	$9.75	-2.50%
+Jan 7, 2021	VTIQ	VectoIQ Acquisition II	$10.00	$9.80	-2.00%
+Jan 7, 2021	OMEG	Omega Alpha SPAC	$10.00	$9.77	-2.30%
+Jan 7, 2021	IVAN	Ivanhoe Capital Acquisition	$10.00	$10.79	7.90%
+Jan 7, 2021	AGCB	Altimeter Growth 2	$10.00	$10.26	2.60%
+Jan 7, 2021	INKA	KludeIn I Acquisition	$10.00	$9.83	-1.70%
+Jan 7, 2021	VCKA	Vickers Vantage I	$10.00	$10.09	0.90%
+Jan 6, 2021	PPGH	Poema Global	$10.00	$9.93	-0.70%
+Jan 6, 2021	STPC	Star Peak II	$10.00	$9.87	-1.30%
+Jan 6, 2021	AKIC	Sports Ventures Acquisition	$10.00	$9.81	-1.90%
+Jan 6, 2021	KAIR	Kairos Acquisition	$10.00	$9.76	-2.40%
+Jan 5, 2021	CRU	Crucible Acquisition	$10.00	$9.76	-2.40%
+Jan 5, 2021	BENE	Benessere Capital Acquisition	$10.00	$10.51	5.10%
+Jan 5, 2021	FVT	Fortress Value Acquisition III	$10.00	$9.76	-2.40%
